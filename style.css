@@ -1,11 +1,6 @@
 *{margin: 0;padding: 0;}
 li{list-style: none;}
-body{
-	background-image: url(https://images.unsplash.com/photo-1495245071931-1b19b580b271?w=1941);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: 100%;
-}
+
 .wrapper{
 	width: 900px;
 	height: 1172.84px;
